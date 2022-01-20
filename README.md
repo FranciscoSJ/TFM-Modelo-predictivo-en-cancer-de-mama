@@ -2,7 +2,7 @@
 
 En este repositorio se encuentra la implementación del Trabajo de Fin de Máster de la Titulación Máster en Ciencia de Datos por la Universitat Oberta de Catalunya (UOC).
 
-En esencia, este trabajo consiste en aplicación de un proceso de minería de datos sobre un juego de datos bastante conocido y de libre acceso, conjunto de datos del cáncer de mama de Wisonsin.
+En esencia, este trabajo consiste en aplicación de un proceso de minería de datos sobre un juego de datos bastante conocido y de libre acceso, conjunto de datos del cáncer de mama de Wisconsin.
 Disponible en: https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28original%29
 
 A continuación se resume las fases de las que consta este trabajo y que se pueden encontrar como resultado de la ejecución del código:
